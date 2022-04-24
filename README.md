@@ -43,7 +43,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 
-<img src="https://views.whatilearened.today/views/github/kaizoku-oh/views.svg"/>
+<img src="https://views.whatilearened.today/views/github/rizkyIqbal/views.svg"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rizkyIqbal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Rizky's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyIqbal&count_private=true&theme=radical" alt="rizkyiqbal" />
