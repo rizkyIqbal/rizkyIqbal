@@ -33,9 +33,11 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP
 <code><img height="20" src="https://img.icons8.com/color/344/dart.png"></code> Dart
-<code><img height="20" src="https://img.icons8.com/ios/72/laravel.png"></code> Laravel
+<code><img height="20" src="https://img.icons8.com/fluency/344/laravel.png"></code> Laravel
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
+<code><img height="20" src="https://img.icons8.com/color/344/flutter.png"></code> Flutter
+<code><img height="20" src="https://img.icons8.com/nolan/96/js.png"></code> JavaScript
+<code><img height="20" src="https://img.icons8.com/color/344/vue-js.png"></code> Vuejs
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
