@@ -31,15 +31,15 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP
 <code><img height="20" src="https://img.icons8.com/color/344/dart.png"></code> Dart
-<code><img height="20" src="https://img.icons8.com/fluency/344/laravel.png"></code> Laravel
-
 <code><img height="20" src="https://img.icons8.com/color/344/flutter.png"></code> Flutter
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP
+<code><img height="20" src="https://img.icons8.com/fluency/344/laravel.png"></code> Laravel
 <code><img height="20" src="https://img.icons8.com/nolan/96/js.png"></code> JavaScript
 <code><img height="20" src="https://img.icons8.com/color/344/vue-js.png"></code> Vuejs
-<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
+<code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <img src="https://github-readme-stats.vercel.app/api?username=rizkyIqbal&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Rizky's GitHub Stats">
