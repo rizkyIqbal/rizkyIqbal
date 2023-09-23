@@ -21,7 +21,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Informatics Engineering Student at University of Muhammadiyah Malang, Indonesia
-- 🌱 I’m currently exploring Flutter with a big interest in Android Development. 
+- 🌱 I’m currently exploring Vuejs with a big interest in Front End Development. 
 - 👯 I Have an experience in Web Development too as a Backend Developer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [arizkyiqbal@gmail.com](mailto:arizkyiqbal@gmail.com).
@@ -30,14 +30,16 @@
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://img.icons8.com/color/344/vue-js.png"></code> Vuejs
 
-<code><img height="20" src="https://img.icons8.com/color/344/dart.png"></code> Dart
-<code><img height="20" src="https://img.icons8.com/color/344/flutter.png"></code> Flutter
+
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP
 <code><img height="20" src="https://img.icons8.com/fluency/344/laravel.png"></code> Laravel
 <code><img height="20" src="https://img.icons8.com/nolan/96/js.png"></code> JavaScript
-<code><img height="20" src="https://img.icons8.com/color/344/vue-js.png"></code> Vuejs
+
+<code><img height="20" src="https://img.icons8.com/color/344/dart.png"></code> Dart
+<code><img height="20" src="https://img.icons8.com/color/344/flutter.png"></code> Flutter
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
