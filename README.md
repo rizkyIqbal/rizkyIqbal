@@ -21,7 +21,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Informatics Engineering Student at University of Muhammadiyah Malang, Indonesia
-- 🌱 I’m currently exploring Vuejs with a big interest in Front End Development. 
+- 🌱 I’m currently exploring Vuejs with 5 years work experience as Front End Development. 
 - 👯 I Have an experience in Web Development too as a Backend Developer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [arizkyiqbal@gmail.com](mailto:arizkyiqbal@gmail.com).
